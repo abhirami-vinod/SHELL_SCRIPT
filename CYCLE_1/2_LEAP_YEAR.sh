@@ -1,4 +1,4 @@
-#Author: JERIL JOY
+#Author: ABHIRAMI VINOD
 echo "ENTER A YEAR"
 read n
 if [ `expr $n % 4` == 0  ] && [ `expr $n % 100` != 0 ]
